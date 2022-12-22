@@ -4,4 +4,4 @@ VI is hard!
 I add some words here.
 I add some words here again.
 This line is written in branch 'dev'.
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
